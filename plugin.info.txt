@@ -1,0 +1,9 @@
+base   bureaucracytoolbar
+author dodotori @ dokuwiki forum 
+email  dodotori@localhost
+date   2025-9-25
+name   bureaucracytoolbar plugin
+desc   The Bureaucracy Toolbar plugin enhances DokuWiki's Bureaucracy plugin by adding a simple toolbar above forms, allowing users to easily insert common Dokuwiki syntax (e.g., bold, italic, links) into textarea fields
+url    https://github.com/edwardcodelab/bureaucracytoolbar
+ver    v1.0
+
